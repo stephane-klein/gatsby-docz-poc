@@ -1,7 +1,3 @@
----
-name: Accueil
----
-
 # Système solaire
 
 Le Système solaire, ou système solaire (sans majuscule)b, est le système planétaire auquel appartient la Terre. Il est composé d'une étoile, le Soleil, et des objets célestes gravitant autour de lui : les huit planètes confirmées et leurs 185 satellites naturels connus (appelés usuellement des « lunes »), les cinq planètes naines et leurs neuf satellites naturels connus et les milliards de petits corps (la grande majorité des astéroïdes et autres planètes mineures, les comètes, les poussières interplanétaires, etc.). Le système solaire fait partie de la galaxie appelée Voie lactée. Il est situé à environ 8 kpc (∼26 100 a.l.) du centre galactique et effectue une révolution en 225 à 250 millions d'années. 
