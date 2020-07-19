@@ -7,8 +7,6 @@ import { Pre } from 'gatsby-theme-docz/src/components/Pre'
 import { Props } from 'gatsby-theme-docz/src/components/Props'
 
 const a = ({ href, ...props }) => {
-    console.log('props');
-    console.log(href);
     if (
         href &&
         !href.startsWith('//') &&
@@ -25,7 +23,6 @@ const a = ({ href, ...props }) => {
             });
         }
     }
-    console.log(href);
     return (
         <a href={href} {...props}>{props.children}</a>
     );
